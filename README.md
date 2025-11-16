@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+%26+C%2B%2B;Learning+Data+Structures;Always+Coding&font=Fira+Code&center=true&color=00F2FF&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;C%2B%2B;Learning+Data+Structures;Always+Coding&font=Fira+Code&center=true&color=00F2FF&pause=2000">
 </p>
 
 ---
