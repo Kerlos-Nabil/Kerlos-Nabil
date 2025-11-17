@@ -60,7 +60,8 @@
     </h2>
 </div>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68e12ae11d72874d1014abc5?variant=dark&roadmaps=cpp%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/68e12ae11d72874d1014abc5?variant=dark&roadmaps=cpp%2Cjavascript)](https://roadmap.sh)
+
 
 ---
 
