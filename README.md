@@ -29,7 +29,6 @@
 </div>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kerlos-Nabil)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kerlos-Nabil)
   [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kerlos-Nabil.Kerlos-Nabil)](https://github.com/Kerlos-Nabil)
 
 ---
@@ -47,9 +46,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=1f1f1f)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1f1f1f)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1f1f1f)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1f1f1f)
-
-
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -57,6 +53,17 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+<div align="center">
+    <h2>
+         <img src="https://readme-typing-svg.herokuapp.com/?lines=Stats&font=Fira+Code&center=true&color=00F2FF&pause=2000&width=200&height=30&vCenter=true">
+    </h2>
+</div>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/68e12ae11d72874d1014abc5?variant=dark&roadmaps=cpp%2Cfrontend)](https://roadmap.sh)
+
+---
+
 
 <div align="center">
 
